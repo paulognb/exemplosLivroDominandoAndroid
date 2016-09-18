@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex2_2_Aplication</string>
+    <string name="btn1_text">Click Toast</string>
+    <string name="btn2_text">Click Other Activity</string>
+</resources>
